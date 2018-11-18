@@ -1,0 +1,10 @@
+*.iml
+.idea/
+.vscode/
+.settings/
+7 Days To Die Admin/.classpath
+7 Days To Die Admin/.project
+7 Days To Die Admin/.sts4-cache/
+7 Days To Die Admin/src/main/resources/lib/
+7 Days To Die Admin/target/classes/lib/
+7 Days To Die Admin/target/
